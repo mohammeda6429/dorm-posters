@@ -6,6 +6,7 @@ h1, h2, h3 {
   text-align: center;
   line-height: 100%;
   font-family: 'Fjalla One', sans-serif;
+    
 }
 
 h1 {
@@ -31,14 +32,37 @@ h3 {
   background: grey;
 }
 
-/*"The Classy Roommate"*/
+#audrey {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 15px solid red;
+}
 
-
-/*"The Neurotic New Yorker"*/
-
-
+#woody{
+ padding: 55.5px 32.5px 55.5px 32.5px;  
+ background-color:white;
+ border:15px solid red;
+ margin:10px 30px 110px 20px;
+ 
+}
+#newyork{
+  border:15px solid red;
+  margin:10px 30px 110px 180px;
+  
+}
 /*"The Art History Major"*/
+#warhol {
+  height: 300px;
+}
 
-
+#picasso {
+  height: 300px;
+}
+.double{
+  border:20px solid navy;
+  text-align:center;
+  background-color:white;
+}
 /*"Pop Culture Fanatic"*/
 
